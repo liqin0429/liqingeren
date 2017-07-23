@@ -176,6 +176,7 @@ footer .social a i{
     padding-left: 20px;
 }
 #menu .navbar-header, #menu .navbar-nav, #menu .navbar-nav li {
+
     float: none;
     margin-left: -10px;
 }
@@ -1295,6 +1296,7 @@ footer .social a i{
         float: left;
     }
     #menu .navbar-header{
+        background: #000;
         float: left;
     }
 }
@@ -1303,6 +1305,7 @@ footer .social a i{
 
 @media only screen and (min-width: 992px) and (max-width: 1199px){
     #menu .navbar-header, #menu .navbar-nav, #menu .navbar-nav li{
+        
         float: none;
     }
 }
